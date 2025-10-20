@@ -1,2 +1,1 @@
-
-# repo_contributors_от_ni4egonepridumal
+# repo_contributors
